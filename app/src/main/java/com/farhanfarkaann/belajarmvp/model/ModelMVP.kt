@@ -1,4 +1,4 @@
 package com.farhanfarkaann.belajarmvp.model
 
 
-class ModelMVP(var textmsgg : String)
+data class ModelMVP(var textmsgg : String)
